@@ -1,0 +1,16 @@
+body {
+    font-family: Roboto;
+}
+
+a{
+    color:black;
+}
+
+a:hover{
+    margin-right:10px;
+    color:darkgray;
+}
+
+nav a{
+    margin-right:10px;
+}
